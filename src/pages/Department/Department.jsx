@@ -114,7 +114,7 @@ const Apartment = () => {
 
     return (
         <>
-            <Header title={"Apartamento"} prePage={"/menu"}/>
+            <Header title={"Sobre el apartamento"} prePage={"/menu"}/>
             <div className='container mt-title-accordion'>
                 <p>
                     Bienvenido a nuestro apartamento. A continuación, encontrará información sobre las comodidades y características disponibles para su estadía.

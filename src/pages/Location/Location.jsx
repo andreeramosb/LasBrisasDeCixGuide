@@ -47,7 +47,7 @@ const Location = () => {
 
     return (
         <>
-            <Header title={"Ubicación"} prePage={"/menu"}/>
+            <Header title={"Sobre ubicación"} prePage={"/menu"}/>
             <div className='container mb-5'>
                 {/* Sección de ubicación dentro del acordeón */}
                 <div className="accordion" id="accordionExample">
