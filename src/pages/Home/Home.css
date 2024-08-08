@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Calistoga&display=swap');
+
+.home-container {
+    position: relative;
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: #ffffff;
+    overflow: hidden;
+    background-image: url('../../assets/img/HomePage.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+.text-container {
+    position: relative;
+    z-index: 1;
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 20px 40px;
+    border-radius: 10px;
+    text-align: center;
+    max-width: 90%;
+    width: fit-content;
+    margin: 0 auto;
+    opacity: 0;
+    animation: fadeIn 2s forwards;
+}
+
+.home-container .btn-home {
+    background-color: #ffb66e;
+    color: #ffffff;
+    font-weight: bold;
+    text-transform: uppercase;
+    z-index: 1;
+    margin-top: 20px;
+    padding: 10px 20px;
+    border-radius: 5px;
+    opacity: 0;
+    animation: fadeIn 2s forwards 1s;
+}
+
+.name-airbnb {
+    font-weight: bold;
+    font-size: 32px;
+    font-family: "Calistoga", serif;
+    margin-bottom: 10px;
+    white-space: nowrap;
+    margin-top: -10px;
+}
+
+.logo-brisas-cix {
+    font-size: 80px;
+    color: #FFD700;
+    margin-bottom: 10px;
+    opacity: 0;
+    animation: fadeIn 2s forwards;
+}
+
+.location {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    font-size: 18px;
+}
+
+.address {
+    font-size: 18px;
+}
+
+@media (max-width: 768px) {    
+    .name-airbnb {
+        margin-top: -5px;
+    }
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}

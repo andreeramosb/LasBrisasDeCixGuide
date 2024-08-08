@@ -1,0 +1,15 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 1em;
+    padding-left: 1em;
+    padding-right: 1em;
+    padding-bottom: 1em;
+    background-color: #ffb66e;
+}
+
+.header a{
+    text-decoration: none;
+    color: #000000;
+    font-weight: bold;
+}
