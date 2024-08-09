@@ -57,6 +57,7 @@ const accordionItems = [
                     <li>No es necesario hacer la cama. No se preocupe por eso.</li>
                     <li>Coloque todas las toallas usadas en la ducha (colgarlas en la puerta de la ducha).</li>
                     <li>Mueva todos los artículos, objetos y muebles a su ubicación original.</li>
+                    <li>El set de llaves por favor entregarlas en el primer piso.</li>
                 </ul>
                 <p>
                     Esperamos que haya disfrutado de su estadía y le deseamos un feliz viaje de retorno a casa. ¡Saludos!.
