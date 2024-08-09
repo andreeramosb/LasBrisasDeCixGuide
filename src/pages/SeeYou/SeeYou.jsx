@@ -17,10 +17,10 @@ const accordionItems = [
                     ¡Gracias por elegirnos!
                 </p>
                 <p>
-                    Ha sido un verdadero placer recibirlos en nuestro hogar. Esperamos que hayan disfrutado de su estancia tanto como nosotros disfrutamos de su visita. Cada visita es especial para nosotros, y nos encantaría darles la bienvenida nuevamente en el futuro.
+                    Ha sido un verdadero placer recibirlos. Esperamos que hayan disfrutado de su estancia tanto como nosotros disfrutamos de su visita. Cada visita es especial para nosotros, y nos alegraría mucho poder darles la bienvenida nuevamente en el futuro.
                 </p>
                 <p>
-                    Nos encanta leer las reseñas de nuestros huéspedes. Airbnb les enviará una solicitud para dejar un comentario sobre su experiencia. Si pueden compartir cómo les fue, se lo agradeceremos mucho.
+                    Valoramos mucho las opiniones de nuestros huéspedes. Airbnb les enviará una solicitud para dejar un comentario sobre su experiencia. Si pueden compartir cómo les fue, se lo agradeceremos muchísimo
                 </p>
                 <p>
                     Si sienten que no hemos alcanzado las 5 estrellas, por favor no duden en contactarnos directamente por WhatsApp o dejar un comentario privado en la web de Airbnb. Esto nos ayudará a seguir mejorando.
@@ -37,10 +37,10 @@ const accordionItems = [
         content: (
             <>
                 <p>
-                    La hora de salida es a las 11:00 de la mañana. Si necesitan salir más tarde, por favor comuníquense con nosotros para verificar la posibilidad de ofrecerles una extensión. Revisaremos si hay alguna reserva inmediata posterior a la suya.
+                    La hora de salida es a las 11:00 de la mañana. Si necesita salir más tarde, por favor comuníquense con nosotros para verificar la posibilidad de ofrecerles un tiempo extra. Revisaremos si hay alguna reserva inmediata posterior a la suya.
                 </p>
                 <p>
-                    En caso de que haya una reserva inmediata, podrán dejarnos sus maletas y regresar a recogerlas sin ningún problema. Si no hay reservas posteriores, con mucho gusto les permitiremos salir unas horas más tarde sin ningún costo adicional, ya sea dejando sus maletas con nosotros o, si es posible, permaneciendo en el apartamento.
+                    En caso de que haya una reserva inmediata, podrán dejarnos sus maletas y regresar a recogerlas sin ningún problema. Si no hay reservas posteriores, con mucho gusto les permitiremos salir unas horas más tarde, ya sea dejando sus maletas con nosotros o, si es posible, permaneciendo en el apartamento.
                 </p>
             </>
         )

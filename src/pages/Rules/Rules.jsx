@@ -27,7 +27,7 @@ const accordionItems = [
                         Amamos a las mascotas tanto como usted, pero lamentablemente nuestro espacio no está preparado para recibirlas adecuadamente. Agradecemos su comprensión.
                     </li>
                     <li>
-                        Si decide disfrutar de una bebida, le pedimos que lo haga con moderación y respeto por el espacio, para asegurar una estancia placentera para todos.
+                        Se permite consumir bebidas alcohólicas, pero solo para un brindis.
                     </li>
                 </ul>
                 <p>Gracias por su comprensión y cooperación. Si tiene alguna duda o necesita asistencia, no dude en contactarnos.</p>

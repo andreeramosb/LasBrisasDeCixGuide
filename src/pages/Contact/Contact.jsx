@@ -19,7 +19,6 @@ const cixEmergency = [
     { name: 'Servicio de Atención Médica de Urgencia (SAMU)', number: '979176400, 949603321' }
 ];
 
-
 const othersEmergency = [
     { name: 'Comisaría PNP Ferreñafe', number: '074 286720' },
     { name: 'Comisaría PNP Pomalca', number: '074 416318' },
@@ -79,7 +78,7 @@ const accordionItems = [
                 <p>
                     En caso de una emergencia, por favor, contacte a las autoridades competentes a través de los siguientes números:
                 </p>
-                <h5>Chiclayo</h5>
+                <h5 className="section-title mt-4">Chiclayo</h5>
                 <ul className="list-group mb-4">
                     {cixEmergency.map(contact => (
                         <li key={contact.name} className="list-group-item">
@@ -87,7 +86,8 @@ const accordionItems = [
                         </li>
                     ))}
                 </ul>
-                <h5>Fuera de Chiclayo</h5>
+                <hr className="section-divider"/>
+                <h5 className="section-title mt-4">Fuera de Chiclayo</h5>
                 <ul className="list-group mb-4">
                     {othersEmergency.map(contact => (
                         <li key={contact.name} className="list-group-item">
@@ -116,7 +116,7 @@ const Contact = () => {
 
     return (
         <>
-            <Header title={"Contactos"} prePage={"/menu"}/>
+            <Header title={"Contactos"} prePage={"/menu"} />
             <div className='container'>
                 <p>
                     Para cualquier necesidad o situación, estamos a su disposición. A continuación, encontrará la información de contacto y los números de emergencia:

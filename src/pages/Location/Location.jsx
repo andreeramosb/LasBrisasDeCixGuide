@@ -12,7 +12,7 @@ const accordionItems = [
         content: (
             <>
                 <p>
-                    El apartamento se encuentra en una ubicación estratégica que ofrece fácil acceso en automóvil a centros comerciales, el centro histórico de Chiclayo, y la salida hacia la playa de Pimentel y otras playas cercanas. Además, en los alrededores se pueden encontrar una variedad de negocios locales como restaurantes, panaderías, farmacias, cevicherías y bodegas, entre otros, lo que hará que la estancia sea más conveniente y agradable.
+                    El apartamento se encuentra en una ubicación estratégica que ofrece fácil acceso en automóvil a centros comerciales, al centro histórico de Chiclayo, salida hacia la playa de Pimentel y a otras playas cercanas. Además, en los alrededores se puede encontrar una variedad de negocios locales como restaurantes, panaderías, farmacias, cevicherías y bodegas, entre otros, lo que hará que su estancia sea más conveniente y agradable.
                 </p>
                 <div className='text-center mb-4'>
                     <iframe
@@ -27,11 +27,12 @@ const accordionItems = [
                     </iframe>
                 </div>
                 <p>
-                    <a href="https://las-brisas-de-cix.vercel.app/" target='_blank'>Pulsando aquí</a> podrá ubicar los negocios que se encuentran al rededor del apartamento, centro comerciales, restaurante, así como también lugares turíticos dentro y fuera de Chiclayo. 
+                    <a href="https://las-brisas-de-cix.vercel.app/" target='_blank'>Haciendo clic aquí</a> podrá ubicar los negocios que se encuentran alrededor del apartamento, centros comerciales, restaurantes, así como lugares turísticos dentro y fuera de Chiclayo.
                 </p>
             </>
         )
     }
+    
 ];
 
 const Location = () => {

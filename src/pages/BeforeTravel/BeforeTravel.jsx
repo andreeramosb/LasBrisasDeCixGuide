@@ -59,7 +59,7 @@ const accordionItems = [
                 </p>
                 <p><strong>¿Quieres llegar antes de esa hora?</strong></p>
                 <p>
-                    Si deseas llegar hoas antes de las 12 del mediodía y el apartamento aún está ocupado, puedes dejar tu equipaje con nosotros. En ese caso, te pedimos que regreses a partir de las 12 del mediodía para el check-in. Sin embargo, si el apartamento está desocupado a tu llegada, podrás ingresar antes de la hora establecida.
+                    Si deseas llegar horas antes de las 12 del mediodía y el apartamento aún está ocupado, puedes dejar tu equipaje con nosotros. En ese caso, te pedimos que regreses a partir de las 12 del mediodía para el check-in. Sin embargo, si el apartamento está desocupado a tu llegada, podrás ingresar antes de la hora establecida.
                 </p>
                 <p><strong>¿Por qué no puedo ingresar a las 11 de la mañana y debo esperar una hora más?</strong></p>
                 <p>
