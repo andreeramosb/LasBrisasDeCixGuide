@@ -48,7 +48,7 @@ const MainPage = () => {
             "href": "/location"
         },
         {
-            "title": "Regresa pronto",
+            "title": "Regrese pronto",
             "icon": BiArrowToRight,
             "href": "/see-you"
         }

@@ -3,7 +3,7 @@ import Kitchen from '../../assets/img/kitchen.jpeg';
 import { Link } from 'react-router-dom';
 import { BiCaretLeft, BiShareAlt } from 'react-icons/bi';
 import '../pages.css';
-import 'bootstrap/dist/css/bootstrap.min.css'; // Asegúrate de que Bootstrap esté importado
+import 'bootstrap/dist/css/bootstrap.min.css'; // Asegúrese de que Bootstrap esté importado
 import Header from '../../components/Header/Header';
 
 // Datos de ejemplo
@@ -14,7 +14,7 @@ const accordionItems = [
         content: (
             <>
                 <div className='mb-3'>
-                    <strong>A continuación, encontrará los elementos destinados a su entretenimiento durante la estadía:</strong>
+                    <strong>A continuación, se encuentran los elementos destinados a su entretenimiento durante la estadía:</strong>
                 </div>
                 <ul>
                     <li>Una televisión inteligente con acceso a canales nacionales e internacionales, además de conexión a Internet.</li>
@@ -90,7 +90,7 @@ const accordionItems = [
         content: (
             <>
                 <div className='mb-3'>
-                    <strong>Para asegurar un descanso cómodo, disponemos de los siguientes dormitorios:</strong>
+                    <strong>Para asegurar un descanso cómodo, se dispone de los siguientes dormitorios:</strong>
                 </div>
                 <ul>
                     <li>Una habitación con cama de plaza y media, ropero y mesa de estudio.</li>
@@ -117,7 +117,7 @@ const Apartment = () => {
             <Header title={"Sobre el apartamento"} prePage={"/menu"}/>
             <div className='container mt-title-accordion'>
                 <p>
-                    Bienvenido a nuestro apartamento. A continuación, encontrará información sobre las comodidades y características disponibles para su estadía.
+                    Bienvenido al apartamento. A continuación, encontrará información sobre las comodidades y características disponibles para su estadía.
                 </p>
             </div>
 
@@ -155,7 +155,7 @@ const Apartment = () => {
 
             <div className='container mt-4 mb-5'>
                 <p>
-                    Además, contamos con un ventilador portátil para su comodidad. En la cocina, encontrará botellas de agua y chocolates/dulces como cortesía.
+                    Además, se cuenta con un ventilador portátil para su comodidad. En la cocina, encontrará botellas de agua y chocolates/dulces como cortesía.
                 </p>
                 <p>
                     Esperamos que disfrute de su estancia y se sienta como en casa.

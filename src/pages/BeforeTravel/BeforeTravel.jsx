@@ -20,11 +20,11 @@ const accordionItems = [
                         <strong>Dispositivos Apple:</strong>
                     </div>
                     <ol type="A">
-                        <li>Para una mejor experiencia, le recomendamos abrir el enlace de esta guía en el navegador Chrome o Safari.</li>
+                        <li>Para una mejor experiencia, se recomienda abrir el enlace de esta guía en el navegador Chrome o Safari.</li>
                         <li>Pulsar en la opción de compartir (ícono de cuadro con una flecha hacia arriba).</li>
                         <li>Seleccionar la opción "Añadir a la pantalla principal".</li>
                     </ol>
-                    Aquí le proporcionamos un video explicativo para guiarlo en el proceso en dispositivos Apple:
+                    A continuación, encontrará un video explicativo que le guiará en el proceso para dispositivos Apple:
                 </p>
                 <div className="video-container">
                     <iframe width="560" height="315" src="https://www.youtube.com/embed/V6A3B7M-M6I?si=bGQcHTbqRNGjTFVk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -38,7 +38,7 @@ const accordionItems = [
                         <li>Tocar el ícono de menú (tres puntos verticales) en la esquina superior derecha del navegador.</li>
                         <li>Seleccionar la opción "Añadir a la pantalla de inicio".</li>
                     </ol>
-                    Aquí le proporcionamos un video explicativo para guiarlo en el proceso en dispositivos Android:
+                    A continuación, encontrará un video explicativo que le guiará en el proceso para dispositivos Android:
                 </p>
                 <div className="video-container">
                     <iframe width="560" height="315" src="https://www.youtube.com/embed/ImfF5l_bBzw?si=m6z3gTTtH1Wev_7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -57,16 +57,16 @@ const accordionItems = [
                 <p>
                     El check-in se realiza a partir de las 12 del mediodía.
                 </p>
-                <p><strong>¿Quieres llegar antes de esa hora?</strong></p>
+                <p><strong>¿Desea llegar antes de esa hora?</strong></p>
                 <p>
-                    Si deseas llegar horas antes de las 12 del mediodía y el apartamento aún está ocupado, puedes dejar tu equipaje con nosotros. En ese caso, te pedimos que regreses a partir de las 12 del mediodía para el check-in. Sin embargo, si el apartamento está desocupado a tu llegada, podrás ingresar antes de la hora establecida.
+                    Si desea llegar antes de las 12 del mediodía y el apartamento aún está ocupado, puede dejar su equipaje con nosotros. En ese caso, le pedimos que regrese a partir de las 12 del mediodía para el check-in. Sin embargo, si el apartamento está desocupado a su llegada, podrá ingresar antes de la hora establecida.
                 </p>
-                <p><strong>¿Por qué no puedo ingresar a las 11 de la mañana y debo esperar una hora más?</strong></p>
+                <p><strong>¿Por qué no se puede ingresar a las 11 de la mañana y debe esperar una hora más?</strong></p>
                 <p>
-                    Para garantizar tu comodidad y una buena estadía, necesitamos ese intervalo de tiempo entre las 11 a.m. y las 12 p.m. para realizar la limpieza completa del apartamento.
+                    Para garantizar su comodidad y una estancia placentera, necesitamos ese intervalo de tiempo entre las 11 a.m. y las 12 p.m. para realizar la limpieza completa del apartamento.
                 </p>
                 <p>
-                    <strong>NOTA:</strong> Si deseas ingresar antes de la hora del check-in (12 del mediodía), por favor, contáctanos. Estaremos encantados de revisar la posibilidad de ofrecerte un acceso anticipado.
+                    <strong>NOTA:</strong> Si desea ingresar antes de la hora del check-in (12 del mediodía), por favor, contáctenos. Estaremos encantados de revisar la posibilidad de ofrecerle un acceso anticipado.
                 </p>
             </>
         )
@@ -78,7 +78,7 @@ const accordionItems = [
             <>
                 <div>
                     <p>
-                        La ciudad de Chiclayo tiene un clima agradable, ideal para disfrutar de sus atractivos. A continuación, te resumimos el clima general:
+                        La ciudad de Chiclayo tiene un clima agradable, ideal para disfrutar de sus atractivos. A continuación, le resumimos el clima general:
                     </p>
                     <ul>
                         <li><strong>Temporada de calor:</strong> De diciembre a marzo</li>

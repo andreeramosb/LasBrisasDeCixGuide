@@ -80,7 +80,7 @@ const SeeYou = () => {
 
     return (
         <>
-            <Header title={"Regresa pronto"} prePage={"/menu"} />
+            <Header title={"Regrese pronto"} prePage={"/menu"} />
             <div className='container mb-5'>
                 {/* Sección de acordeones */}
                 <div className="accordion" id="accordionExample">

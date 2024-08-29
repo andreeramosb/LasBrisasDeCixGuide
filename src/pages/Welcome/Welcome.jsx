@@ -16,7 +16,7 @@ const accordionItems = [
                     <img src={ImgHome} alt="Home" className="img-fluid rounded" />
                 </div>
                 <p>
-                    Estamos encantados de que hayan elegido nuestro lugar para su estadía. Esta guía está diseñada para hacer su experiencia lo más cómoda y placentera posible. Aquí encontrarán toda la información necesaria, desde antes de viajar hasta el momento de la salida.
+                    Estamos encantados de que hayan elegido este apartamento para su estadía. Esta guía está diseñada para hacer que su experiencia sea lo más cómoda y placentera posible. Aquí encontrarán toda la información necesaria, desde antes de viajar hasta el momento de su partida.
                 </p>
                 <ul className="mb-4">
                     <strong>Menú de la guía:</strong>
@@ -27,13 +27,13 @@ const accordionItems = [
                     <li>Reglas: Normas para mantener un ambiente armonioso para todos.</li>
                     <li>Contacto: Números de contacto para cualquier necesidad, incluyendo autoridades para emergencias.</li>
                     <li>Ubicación: Recomendaciones y detalles sobre el área local.</li>
-                    <li>Salida: Pasos para un check-out sin problemas.</li>
+                    <li>Regrese Pronto: Pasos para un check-out sin problemas.</li>
                 </ul>
                 <p>
-                    Con esta guía, buscamos asegurar que su experiencia sea fluida y agradable. Si tienen alguna pregunta o necesitan asistencia, recuerden que siempre pueden contactarnos a través de la sección de "Contacto". Esperamos que su experiencia en <span translate="no"> "Las Brisas de Cix" </span> sea inolvidable y llena de momentos felices. ¡Les invitamos a explorar y disfrutar de la maravillosa ciudad de Chiclayo, Perú!
+                    Con esta guía, buscamos asegurar que su experiencia sea fluida y agradable. Si tienen alguna pregunta o necesitan asistencia, recuerden que siempre pueden contactarnos a través de la sección de "Contacto". Esperamos que su estadía en <span translate="no"> "Las Brisas de Cix" </span> sea inolvidable y llena de momentos felices. Les invitamos a explorar y disfrutar de la maravillosa ciudad de Chiclayo, Perú.
                 </p>
                 <p>
-                    ¡Que tengan una estancia maravillosa!
+                    ¡Les deseamos una estancia maravillosa!
                 </p>
             </>
         )

@@ -12,19 +12,19 @@ const accordionItems = [
         content: (
             <>
                 <div className="text-center mb-4">
-                    <img src={DoorThirdFloor} alt="Door" className="img-fluid rounded" />
+                    <img src={DoorThirdFloor} alt="Puerta del Tercer Piso" className="img-fluid rounded" />
                 </div>
                 <p>
-                    El apartamento está en el tercer piso del edificio.
+                    El apartamento está ubicado en el tercer piso del edificio.
                 </p>
                 <p>
-                    Al llegar, comuníquese con nosotros por WhatsApp para coordinar su llegada y abrir la puerta principal. Le daremos un juego de dos llaves: una para la puerta de la reja principal y otra para la puerta del apartamento.
+                    Al llegar, comuníquese con nosotros a través de WhatsApp para coordinar su ingreso y abrir la puerta principal. Le entregaremos un juego de dos llaves: una para la puerta de la reja principal y otra para la puerta del apartamento.
                 </p>
                 <p>
-                    Una vez dentro de la reja principal, suba las escaleras a la izquierda. Estas lo llevarán al tercer piso, donde encontrará la puerta de madera que da acceso al apartamento.
+                    Una vez dentro de la reja principal, suba las escaleras ubicadas a la izquierda. Estas lo llevarán al tercer piso, donde encontrará la puerta de madera que da acceso al apartamento.
                 </p>
                 <p>
-                    No se preocupe por la iluminación de las escaleras por la noche. Los focos tienen sensores que se activan automáticamente para iluminar su camino. Las luces se apagan solas después de unos minutos.
+                    No se preocupe por la iluminación de las escaleras durante la noche. Los focos cuentan con sensores que se activan automáticamente para iluminar su camino. Las luces se apagarán solas después de unos minutos.
                 </p>
             </>
         )
@@ -38,13 +38,12 @@ const accordionItems = [
                     <strong>A partir de medianoche:</strong>
                 </div>
                 <p>
-                    A partir de medianoche, la puerta de la reja principal se cierra con llave, como una costumbre. Si llega después de esa hora y la reja está cerrada, simplemente use la llave proporcionada para abrirla. Inserte la llave en la cerradura y gírela hasta que la puerta se abra. Si la reja está cerrada sin llave al llegar, asegúrese de cerrarla correctamente al entrar. La zona es tranquila y muy comercial. Puede entrar y salir con su familia en cualquier momento; no hay restricciones horarias.
+                    A partir de medianoche, la puerta de la reja principal se cierra con llave, como una costumbre. Si llega después de esa hora y la reja está cerrada, simplemente utilice la llave proporcionada para abrirla. Inserte la llave en la cerradura y gírela hasta que la puerta se abra. Si al llegar la reja está cerrada sin llave, asegúrese de cerrarla correctamente al entrar. La zona es tranquila y muy comercial, por lo que podrá entrar y salir con su familia en cualquier momento; no hay restricciones horarias.
                 </p>
             </>
         )
     },
 ];
-
 
 const Arriving = () => {
     const [openItems, setOpenItems] = useState([]);
