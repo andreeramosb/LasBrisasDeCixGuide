@@ -27,7 +27,10 @@ const accordionItems = [
                         Amamos a las mascotas tanto como usted, pero lamentablemente nuestro espacio no está preparado para recibirlas adecuadamente. Agradecemos su comprensión.
                     </li>
                     <li>
-                        Se permite consumir bebidas alcohólicas, pero solo para un brindis.
+                        No se permiten tomar bebidas alchólicas.
+                    </li>
+                    <li>
+                        El número máximo de personas que pueden ingresar al apartamento es el indicado en la reserva en la web de Airbnb. Si desea permitir la entrada a más personas, deberá coordinarlo previamente con el anfitrión y/o la co-anfitriona.
                     </li>
                 </ul>
                 <p>Gracias por su comprensión y cooperación. Si tiene alguna duda o necesita asistencia, no dude en contactarnos.</p>
