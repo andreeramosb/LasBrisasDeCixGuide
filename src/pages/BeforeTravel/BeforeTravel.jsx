@@ -55,18 +55,18 @@ const accordionItems = [
                     <img src={Luggage} style={{ width: "15em" }} alt="Luggage" className="img-fluid rounded" />
                 </div>
                 <p>
-                    El check-in se realiza a partir de las 12 del mediodía.
+                    El check-in se realiza a partir de la 01 de la tarde (PM).
                 </p>
                 <p><strong>¿Desea llegar antes de esa hora?</strong></p>
                 <p>
-                    Si desea llegar antes de las 12 del mediodía y el apartamento aún está ocupado, puede dejar su equipaje con nosotros. En ese caso, le pedimos que regrese a partir de las 12 del mediodía para el check-in. Sin embargo, si el apartamento está desocupado a su llegada, podrá ingresar antes de la hora establecida.
+                    Si desea llegar antes de la 01 de la tarde y el apartamento aún está ocupado, puede dejar su equipaje con nosotros. En ese caso, le pedimos que regrese a partir de 01 de la tarde para el check-in. Sin embargo, si el apartamento está desocupado a su llegada, podrá ingresar antes de la hora establecida.
                 </p>
-                <p><strong>¿Por qué no se puede ingresar a las 11 de la mañana y debe esperar una hora más?</strong></p>
+                <p><strong>¿Por qué no se puede ingresar a las 11 de la mañana y debe esperar estas horas demás?</strong></p>
                 <p>
-                    Para garantizar su comodidad y una estancia placentera, necesitamos ese intervalo de tiempo entre las 11 a.m. y las 12 p.m. para realizar la limpieza completa del apartamento.
+                    Para garantizar su comodidad y una estancia placentera, necesitamos ese intervalo de tiempo entre las 11 a.m. y 01 p.m. para realizar la limpieza completa del apartamento.
                 </p>
                 <p>
-                    <strong>NOTA:</strong> Si desea ingresar antes de la hora del check-in (12 del mediodía), por favor, contáctenos. Estaremos encantados de revisar la posibilidad de ofrecerle un acceso anticipado.
+                    <strong>NOTA:</strong> Si desea ingresar antes de la hora del check-in (01 pm), por favor, contáctenos. Estaremos encantados de revisar la posibilidad de ofrecerle un acceso anticipado.
                 </p>
             </>
         )
