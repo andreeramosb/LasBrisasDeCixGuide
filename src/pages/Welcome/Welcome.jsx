@@ -26,8 +26,8 @@ const accordionItems = [
                     <li>WiFi / Internet: Información sobre cómo conectarse a nuestra red y disfrutar del internet.</li>
                     <li>Reglas: Normas para mantener un ambiente armonioso para todos.</li>
                     <li>Contacto: Números de contacto para cualquier necesidad, incluyendo autoridades para emergencias.</li>
-                    <li>Ubicación: Recomendaciones y detalles sobre el área local.</li>
-                    <li>Regrese Pronto: Pasos para un check-out sin problemas.</li>
+                    <li>Sobre la ubicación: Recomendaciones y detalles sobre el área local.</li>
+                    <li>Regrese pronto: Pasos para un check-out sin problemas.</li>
                 </ul>
                 <p>
                     Con esta guía, buscamos asegurar que su experiencia sea fluida y agradable. Si tienen alguna pregunta o necesitan asistencia, recuerden que siempre pueden contactarnos a través de la sección de "Contacto". Esperamos que su estadía en <span translate="no"> "Las Brisas de Cix" </span> sea inolvidable y llena de momentos felices. Les invitamos a explorar y disfrutar de la maravillosa ciudad de Chiclayo, Perú.
