@@ -17,11 +17,9 @@ const accordionItems = [
                 </div>
                 <p>Para su comodidad, le ofrecemos acceso a internet vía Wi-Fi. A continuación, encontrará los detalles para conectarse:</p>
                 <ul>
-                    <li><strong>Nombre de la red:</strong> MOVISTAR_17BF</li>
-                    <li><strong>Nombre de la red (alternativa):</strong> MOVISTAR_PLUS_17BF</li>
-                    <li><strong>Contraseña:</strong> gGUnzVsFwiNaCJ4Mfr23</li>
+                    <li><strong>Nombre de la red:</strong> MRamosD</li>
+                    <li><strong>Contraseña:</strong> +660621M_R</li>
                 </ul>
-                <p>Puede conectarse a cualquiera de nuestras redes Wi-Fi. Ambas redes utilizan la misma contraseña, por lo que puede elegir la opción que mejor se adapte a sus necesidades. Si desea probar la otra red, simplemente conéctese a la alternativa disponible.</p>
                 <p>Estamos aquí para ayudarle. ¡Disfrute de su estancia!</p>
             </>
         )
