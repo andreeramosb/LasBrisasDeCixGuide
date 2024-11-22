@@ -27,7 +27,7 @@ const accordionItems = [
                     </iframe>
                 </div>
                 <p>
-                    <a href="https://las-brisas-de-cix.vercel.app/" target='_blank'>Haciendo clic aquí</a> podrá ubicar los negocios que se encuentran alrededor del apartamento, centros comerciales, restaurantes, así como lugares turísticos dentro y fuera de Chiclayo.
+                    <a href="https://las-brisas-de-cix.vercel.app/" target='_blank'   style={{ backgroundColor: '#FFB66E', fontWeight: 'bold' , padding: '5px', borderRadius: '5px', color: 'black' }}>Haciendo clic aquí</a> podrá ubicar los negocios que se encuentran alrededor del apartamento, centros comerciales, restaurantes, así como lugares turísticos dentro y fuera de Chiclayo.
                 </p>
             </>
         )

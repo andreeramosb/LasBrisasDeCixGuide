@@ -17,8 +17,8 @@ const accordionItems = [
                 </div>
                 <p>Para su comodidad, le ofrecemos acceso a internet vía Wi-Fi. A continuación, encontrará los detalles para conectarse:</p>
                 <ul>
-                    <li><strong>Nombre de la red:</strong> MRamosD</li>
-                    <li><strong>Contraseña:</strong> +660621M_R</li>
+                    <li><strong>Nombre de la red:</strong> RAMOS REP</li>
+                    <li><strong>Contraseña:</strong> 12345678+</li>
                 </ul>
                 <p>Estamos aquí para ayudarle. ¡Disfrute de su estancia!</p>
             </>
