@@ -22,16 +22,15 @@ const accordionItems = [
                     <li>Una televisión inteligente con acceso a canales nacionales e internacionales, además de conexión a Internet.</li>
                     <ul>
                         <li>Para poder ingresar a ver canales de televisión, se deberá seguir los siguientes pasos:
-                            <ul>
+                            <ol>
                                 <li>Pulsar el botón menú del control remoto
-                                    <img src={ControlImg} className='img-fluid rounded'/>
+                                    <img src={ControlImg} className='img-fluid rounded' />
                                 </li>
-                            </ul>
-                            <ul>
+
                                 <li>Por último escoger el aplicativo con el siguiente símbolo
                                     <img src={TvImg} className='img-fluid rounded' />
                                 </li>
-                            </ul>
+                            </ol>
                         </li>
                     </ul>
                     <li>Un sofá cómodo para su relajación mientras disfruta de la televisión.</li>
