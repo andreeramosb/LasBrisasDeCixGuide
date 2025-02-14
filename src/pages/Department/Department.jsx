@@ -24,12 +24,12 @@ const accordionItems = [
                         <li>Para poder ingresar a ver canales de televisión, se deberá seguir los siguientes pasos:
                             <ul>
                                 <li>Pulsar el botón menú del control remoto
-                                    <img src={ControlImg} alt="" />
+                                    <img src={ControlImg} className='img-fluid rounded'/>
                                 </li>
                             </ul>
                             <ul>
                                 <li>Por último elscoger el aplicativo con el siguiente símbolo
-                                    <img src={TvImg} alt="" />
+                                    <img src={TvImg} className='img-fluid rounded' />
                                 </li>
                             </ul>
                         </li>
