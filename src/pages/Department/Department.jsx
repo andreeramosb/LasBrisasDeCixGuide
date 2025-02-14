@@ -5,6 +5,8 @@ import { BiCaretLeft, BiShareAlt } from 'react-icons/bi';
 import '../pages.css';
 import 'bootstrap/dist/css/bootstrap.min.css'; // Asegúrese de que Bootstrap esté importado
 import Header from '../../components/Header/Header';
+import ControlImg from '../../assets/img/1.jpg'
+import TvImg from '../../assets/img/2.jpg'
 
 // Datos de ejemplo
 const accordionItems = [
@@ -18,6 +20,20 @@ const accordionItems = [
                 </div>
                 <ul>
                     <li>Una televisión inteligente con acceso a canales nacionales e internacionales, además de conexión a Internet.</li>
+                    <ul>
+                        <li>Para poder ingresar a ver canales de televisión, se deberá seguir los siguientes pasos:
+                            <ul>
+                                <li>Pulsar el botón menú del control remoto
+                                    <img src={ControlImg} alt="" />
+                                </li>
+                            </ul>
+                            <ul>
+                                <li>Por último elscoger el aplicativo con el siguiente símbolo
+                                    <img src={TvImg} alt="" />
+                                </li>
+                            </ul>
+                        </li>
+                    </ul>
                     <li>Un sofá cómodo para su relajación mientras disfruta de la televisión.</li>
                     <li>Una mesa de comedor con 4 asientos para disfrutar de sus comidas.</li>
                 </ul>
@@ -114,7 +130,7 @@ const Apartment = () => {
 
     return (
         <>
-            <Header title={"Sobre el apartamento"} prePage={"/menu"}/>
+            <Header title={"Sobre el apartamento"} prePage={"/menu"} />
             <div className='container mt-title-accordion'>
                 <p>
                     Bienvenido al apartamento. A continuación, encontrará información sobre las comodidades y características disponibles para su estadía.
