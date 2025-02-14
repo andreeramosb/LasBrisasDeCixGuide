@@ -28,7 +28,7 @@ const accordionItems = [
                                 </li>
                             </ul>
                             <ul>
-                                <li>Por último elscoger el aplicativo con el siguiente símbolo
+                                <li>Por último escoger el aplicativo con el siguiente símbolo
                                     <img src={TvImg} className='img-fluid rounded' />
                                 </li>
                             </ul>
