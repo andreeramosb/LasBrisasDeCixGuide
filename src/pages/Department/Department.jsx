@@ -8,7 +8,10 @@ import Header from '../../components/Header/Header';
 import Img1 from '../../assets/img/1.jpg'
 import Img2 from '../../assets/img/2.jpg'
 import Img3 from '../../assets/img/3.jpg'
+import Img3_1 from '../../assets/img/3_1.jpg'
 import Img4 from '../../assets/img/4.jpg'
+import Img5 from '../../assets/img/5.jpg'
+import Img6 from '../../assets/img/6.jpg'
 // Datos de ejemplo
 const accordionItems = [
     {
@@ -22,26 +25,34 @@ const accordionItems = [
                 <ul>
                     <li>Una televisión inteligente con acceso a canales nacionales e internacionales, películas y series. Además de conexión a Internet.</li>
                     <br />
-                    <ul>
-                        <li>Para poder ingresar a ver todo el contenido disponible de televisión, se deberá seguir los siguientes pasos:<br /><br />
-                            <ol>
-                                <li>Encender el televisor, presionando el botón de encendido/apagado del control remoto grande:
-                                    <br /><br /><img src={Img1} className='img-fluid rounded' />
-                                </li>
-                                <br />
-                                <li>Presionar el botón de encendido/apagado del control remoto pequeño, en dirección al modem. Usted verá que al estar apagado va a mostrarse una luz  roja, y para verificar su encendido, se mostrará una luz azul:
-                                    <br /><br /><img src={Img2} className='img-fluid rounded' /><br />
-                                    -------------------------------------------------------------------------------
-                                    <br /><br /><img src={Img3} className='img-fluid rounded' />
-                                </li>
-                                <br />
-                                <li>Al terminar de encender y cargar, usted visualizará un cuadro de publicidad como se muestra en la imagen siguiente, por favor presionar el botón de la flecha(indicada en la imagen del control) para salir de dicha publicidad:
-                                    <br /><br /><img src={Img4} className='img-fluid rounded' /><br />
-                                </li>
-                            </ol>
+                    Para poder ingresar a ver todo el contenido disponible de televisión, se deberá seguir los siguientes pasos:<br /><br />
+                    <ol>
+                        <li>Encender el televisor, presionando el botón de encendido/apagado del control remoto grande. Este control solo usaremos para encender y apagar el televisor:
+                            <br /><br /><img src={Img1} className='img-fluid rounded' />
                         </li>
-                    </ul>
+                        <br />
+                        <li>Presionar el botón de encendido/apagado del control remoto pequeño, en dirección al modem. Usted verá que al estar apagado va a mostrarse una luz  roja, y para verificar su encendido, se mostrará una luz azul:
+                            <br /><br /><img src={Img2} className='img-fluid rounded' /><br />
+                            <br /><br /><img src={Img3} className='img-fluid rounded' />
+                        </li>
+                        <br />
+                        <li>Al encender el modem visualizará el menú principal, a continuación usted deberá abrir el aplicativo Magis, el cuál se indica en la imagen:
+                            <br /><br /><img src={Img3_1} className='img-fluid rounded' /><br />
+                        </li>
+                        <br />
+                        <li>A continuación, al abrir el aplicativo, usted visualizará un cuadro de publicidad como se muestra en la imagen siguiente, por favor presionar el botón de la flecha(indicada en la imagen del control) para salir de dicha publicidad:
+                            <br /><br /><img src={Img4} className='img-fluid rounded' /><br />
+                            <br /><br /><img src={Img5} className='img-fluid rounded' /><br />
+                        </li>
+                        <br />
+                        <li>Por último usted podrá disfrutar de todo de lo que se le ofrece, como, canales de televisión (Nacionales e internacionales), películas, series, kids(contenido para niños) y animes:
+                            <br /><br /><img src={Img6} className='img-fluid rounded' /><br />
+                        </li>
+
+                    </ol>
+                    <br />
                     <li>Un sofá cómodo para su relajación mientras disfruta de la televisión.</li>
+                     <br />
                     <li>Una mesa de comedor con 4 asientos para disfrutar de sus comidas.</li>
                 </ul>
             </>
