@@ -23,38 +23,56 @@ const accordionItems = [
                     <strong>A continuación, se encuentran los elementos destinados a su entretenimiento durante la estadía:</strong>
                 </div>
                 <ul>
-                    <li>Una televisión inteligente con acceso a canales nacionales e internacionales, películas y series. Además de conexión a Internet.</li>
+                    <li>Una televisión inteligente con acceso a canales nacionales e internacionales, películas y series. Además, cuenta con conexión a Internet.</li>
                     <br />
-                    Para poder ingresar a ver todo el contenido disponible de televisión, se deberá seguir los siguientes pasos:<br /><br />
+                    Para poder acceder a todo el contenido disponible en la televisión, se deberán seguir los siguientes pasos:<br /><br />
                     <ol>
-                        <li>Encender el televisor, presionando el botón de encendido/apagado del control remoto grande. Este control solo usaremos para encender y apagar el televisor:
-                            <br /><br /><img src={Img1} className='img-fluid rounded' />
+                        <li>
+                            Encender el televisor presionando el botón de encendido/apagado del <strong>control remoto grande</strong>.
+                            <br /><br />
+                            <strong>Este control solo se usará para encender o apagar totalmente el televisor, y para ingresar a otras aplicaciones como Netflix, YouTube, Prime Video, entre otras.</strong>
+                            <br /><br />
+                            <img src={Img1} className='img-fluid rounded' />
                         </li>
                         <br />
-                        <li>Presionar el botón de encendido/apagado del control remoto pequeño, en dirección al modem. Usted verá que al estar apagado va a mostrarse una luz  roja, y para verificar su encendido, se mostrará una luz azul:
+                        <li>
+                            Presionar el botón de encendido/apagado del <strong>control remoto pequeño</strong>, apuntando hacia el módem.
+                            Verá que, cuando está apagado, se muestra una luz roja; al encenderse, se mostrará una luz azul:
                             <br /><br /><img src={Img2} className='img-fluid rounded' /><br />
                             <br /><br /><img src={Img3} className='img-fluid rounded' />
+
+                            <br /><br />
+                            <strong>Importante:</strong> A través del aplicativo <strong>Magis</strong>, usted podrá acceder a una amplia variedad de contenido como <strong>canales de televisión (nacionales e internacionales), películas, series, contenido para niños (kids) y animes</strong>. ¡No se lo pierda!
                         </li>
                         <br />
-                        <li>Al encender el modem visualizará el menú principal, a continuación usted deberá abrir el aplicativo Magis, el cuál se indica en la imagen:
+                        <li>
+                            Al encender el módem, visualizará el menú principal. A continuación, deberá abrir el aplicativo <strong>Magis</strong>, el cual se indica en la imagen:
                             <br /><br /><img src={Img3_1} className='img-fluid rounded' /><br />
                         </li>
                         <br />
-                        <li>A continuación, al abrir el aplicativo, usted visualizará un cuadro de publicidad como se muestra en la imagen siguiente, por favor presionar el botón de la flecha(indicada en la imagen del control) para salir de dicha publicidad:
+                        <li>
+                            Al abrir el aplicativo, visualizará un cuadro de publicidad como se muestra en la imagen siguiente.
+                            Por favor, presione el botón indicado en el recuadro verde en la imagen del control para cerrar dicha publicidad:
                             <br /><br /><img src={Img4} className='img-fluid rounded' /><br />
                             <br /><br /><img src={Img5} className='img-fluid rounded' /><br />
                         </li>
                         <br />
-                        <li>Por último usted podrá disfrutar de todo de lo que se le ofrece, como, canales de televisión (Nacionales e internacionales), películas, series, kids(contenido para niños) y animes:
+                        <li>
+                            Por último, podrá disfrutar de todo lo que se le ofrece, como canales de televisión (nacionales e internacionales), películas, series, contenido para niños (kids) y animes:
                             <br /><br /><img src={Img6} className='img-fluid rounded' /><br />
                         </li>
-
+                        <br />
+                        <li>
+                            <strong>Importante:</strong> Cuando haya terminado de usar el televisor, por favor asegúrese de <strong>apagarlo utilizando el control remoto grande</strong>.
+                        </li>
                     </ol>
                     <br />
                     <li>Un sofá cómodo para su relajación mientras disfruta de la televisión.</li>
-                     <br />
+                    <br />
                     <li>Una mesa de comedor con 4 asientos para disfrutar de sus comidas.</li>
                 </ul>
+
+
             </>
         )
     },
