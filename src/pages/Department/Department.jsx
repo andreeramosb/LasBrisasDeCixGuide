@@ -5,9 +5,10 @@ import { BiCaretLeft, BiShareAlt } from 'react-icons/bi';
 import '../pages.css';
 import 'bootstrap/dist/css/bootstrap.min.css'; // Asegúrese de que Bootstrap esté importado
 import Header from '../../components/Header/Header';
-import ControlImg from '../../assets/img/1.jpg'
-import TvImg from '../../assets/img/2.jpg'
-
+import Img1 from '../../assets/img/1.jpg'
+import Img2 from '../../assets/img/2.jpg'
+import Img3 from '../../assets/img/3.jpg'
+import Img4 from '../../assets/img/4.jpg'
 // Datos de ejemplo
 const accordionItems = [
     {
@@ -19,16 +20,23 @@ const accordionItems = [
                     <strong>A continuación, se encuentran los elementos destinados a su entretenimiento durante la estadía:</strong>
                 </div>
                 <ul>
-                    <li>Una televisión inteligente con acceso a canales nacionales e internacionales, además de conexión a Internet.</li>
+                    <li>Una televisión inteligente con acceso a canales nacionales e internacionales, películas y series. Además de conexión a Internet.</li>
+                    <br />
                     <ul>
-                        <li>Para poder ingresar a ver canales de televisión, se deberá seguir los siguientes pasos:
+                        <li>Para poder ingresar a ver todo el contenido disponible de televisión, se deberá seguir los siguientes pasos:<br /><br />
                             <ol>
-                                <li>Pulsar el botón menú del control remoto
-                                    <img src={ControlImg} className='img-fluid rounded' />
+                                <li>Encender el televisor, presionando el botón de encendido/apagado del control remoto grande:
+                                    <br /><br /><img src={Img1} className='img-fluid rounded' />
                                 </li>
-
-                                <li>Por último escoger el aplicativo con el siguiente símbolo
-                                    <img src={TvImg} className='img-fluid rounded' />
+                                <br />
+                                <li>Presionar el botón de encendido/apagado del control remoto pequeño, en dirección al modem. Usted verá que al estar apagado va a mostrarse una luz  roja, y para verificar su encendido, se mostrará una luz azul:
+                                    <br /><br /><img src={Img2} className='img-fluid rounded' /><br />
+                                    -------------------------------------------------------------------------------
+                                    <br /><br /><img src={Img3} className='img-fluid rounded' />
+                                </li>
+                                <br />
+                                <li>Al terminar de encender y cargar, usted visualizará un cuadro de publicidad como se muestra en la imagen siguiente, por favor presionar el botón de la flecha(indicada en la imagen del control) para salir de dicha publicidad:
+                                    <br /><br /><img src={Img4} className='img-fluid rounded' /><br />
                                 </li>
                             </ol>
                         </li>
