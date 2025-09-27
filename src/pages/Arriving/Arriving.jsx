@@ -30,7 +30,7 @@ const accordionItems = [
 
                 <ul>
                     <li>
-                        Ingrese la contraseña en el teclado iluminado para desbloquear la puerta automáticamente.
+                        Ingrese la clave en el teclado iluminado para desbloquear la puerta automáticamente.
                     </li>
                 </ul>
                 <div className="text-center mb-4">
