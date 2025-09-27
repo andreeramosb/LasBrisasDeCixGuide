@@ -71,6 +71,10 @@ const accordionItems = [
                     <strong>Importante:</strong> Al cerrar la puerta, espere unos segundos hasta escuchar un clic metálico.
                     Ese sonido indica que el cerrojo automático se ha activado correctamente y la puerta está asegurada.
                 </div>
+                <div className="alert alert-warning mt-4" role="alert">
+                    <strong>Importante:</strong>  Al finalizar el día, si no tiene previsto salir nuevamente,
+                    asegúrese de cerrar la puerta con el cerrojo manual (picaporte) desde el interior.
+                </div>
             </>
         )
     },
