@@ -30,7 +30,7 @@ const accordionItems = [
                     <a href="https://las-brisas-de-cix.vercel.app/" target='_blank'   style={{ backgroundColor: '#FFB66E', fontWeight: 'bold' , padding: '5px', borderRadius: '5px', color: 'black' }}>Haciendo clic aquí</a> podrá ubicar los negocios que se encuentran alrededor del apartamento, centros comerciales, restaurantes, así como lugares turísticos dentro y fuera de Chiclayo.
                 </p>
                 <p>
-                    No disponemos de parking. Sin embargo, hay opciones de estacionamiento en las calles cercanas y en los alrededores al apartamento.
+                   <b>NOTA: </b> No disponemos de parking. Sin embargo, hay opciones de estacionamiento en las calles cercanas y en los alrededores al apartamento.
                 </p>
                 <div className='text-center mb-4'>
                     <iframe
